@@ -143,8 +143,9 @@ h1.name{
 }
 
 .image-content {
-    max-width: 350px;
-    max-height: 400px;
+    /* max-width: 350px;
+    max-height: 400px; */
+    width: 100%;
 }
 
 
