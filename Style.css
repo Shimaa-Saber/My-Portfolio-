@@ -264,7 +264,9 @@ h1.name{
 .more-details:hover {
     color: #20c997;
 }
-
+#link{
+    text-decoration: none;
+}
 
 .contact .icon{
     font-size: 4.5em;
